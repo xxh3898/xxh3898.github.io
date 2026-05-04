@@ -3,12 +3,17 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+
+- type: portfolio
+  icon: "fas fa-id-card"
+  url: "https://www.chochiho.cloud"
+
+- type: tistory
+  icon: "fas fa-blog"
+  url: "https://xxh3898.tistory.com"
 
 - type: rss
   icon: "fas fa-rss"

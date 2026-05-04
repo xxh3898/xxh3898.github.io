@@ -95,3 +95,9 @@ description: "문제의 원인과 해결 과정을 요약합니다."
 GitHub Actions의 `Build and Deploy` workflow가 `main` branch push 또는 수동 실행 시 Pages artifact를 build/deploy합니다.
 
 GitHub repository Settings에서 Pages source는 `GitHub Actions`로 설정합니다.
+
+## 댓글
+
+댓글 시스템은 `giscus` 기준으로 활성화했습니다. GitHub Discussions의 `General` category를 사용하며, 글 URL 경로 기준으로 discussion을 연결합니다.
+
+현재 설정값과 점검 방법은 [docs/giscus-setup.md](docs/giscus-setup.md)에 정리했습니다.
